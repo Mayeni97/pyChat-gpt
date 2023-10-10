@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
-from Chat_gpt import chat_gpt  # Import the chatbot function
+from Chat_gpt import chat_gpt 
+import cred
 
 class Gui():
     
